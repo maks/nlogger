@@ -1,13 +1,13 @@
 {
-  "name": "cnlogger",
-  "description": "Logging lib that prints module name and line number",
-  "version": "0.3.5",
-  "homepage": "https://github.com/schloerke/nlogger",
+  "name": "mkslogger",
+  "description": "Simple logging library, forked from nlogger.",
+  "version": "0.0.1,
+  "homepage": "https://github.com/maks/nlogger",
   "keywords": ["log", "logging", "logger", "custom", "color"],
-  "author": "Barret Schloerke and Igor Urminček",
+  "author": "Maksim Lin and Barret Schloerke and Igor Urminček",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/schloerke/nlogger.git"
+    "url": "git://github.com/maks/nlogger.git"
   }
 }
