@@ -68,8 +68,12 @@ nlogger can load optional configuration file nlogger.json which looks like:
 
 Possible debug levels are `trace`, `debug`, `info`, `warn`, `error`.
 
+You can also use single letter alias's of the above - eg. log.d()
+
 Changes
 -------
+o.4.0 - Added single letter aliases
+
 0.3.0 - Added parameters support to logging methods
 
 0.2.0 - Added configuration file support
