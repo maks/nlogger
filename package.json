@@ -1,8 +1,8 @@
 {
   "name": "mkslogger",
   "description": "Simple logging library, forked from github.com/schloerke/nlogger"
-  "version": "0.0.2",
-  "homepage": "https://github.com/maks/nlogger",
+  "version": "0.0.4",
+  "homepage": "https://github.com/maks/mkslogger",
   "keywords": ["log", "logging", "logger", "custom", "color"],
   "author": "Maksim Lin and Barret Schloerke and Igor Urminček",
   "main": "index.js",
